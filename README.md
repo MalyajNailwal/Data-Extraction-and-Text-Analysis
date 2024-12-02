@@ -36,62 +36,55 @@ You can install the required libraries using pip:
 
 ```bash
 pip install pandas numpy nltk beautifulsoup4 requests matplotlib seaborn
-Usage
-Clone the repository to your local machine:
+```
 
-bash
+## Usage
 
+1. Clone the repository to your local machine:
 
-git clone https://github.com/MalyajNailwal/Data-Extraction-and-Text-Analysis.git
-cd Data-Extraction-and-Text-Analysis
-Open the Jupyter Notebook or Python script and follow the instructions within to run the analyses.
+   ```bash
+   git clone https://github.com/MalyajNailwal/Data-Extraction-and-Text-Analysis.git
+   cd Data-Extraction-and-Text-Analysis
+   ```
 
-Modify the code as necessary to suit your specific data extraction and analysis needs.
+2. Open the Jupyter Notebook or Python script and follow the instructions within to run the analyses.
 
-Data Sources
+3. Modify the code as necessary to suit your specific data extraction and analysis needs.
+
+## Data Sources
+
 This project can handle various types of data sources, including:
 
-Web scraping from HTML pages using BeautifulSoup.
-Text extraction from PDF files.
-CSV files and other structured data formats.
+- Web scraping from HTML pages using BeautifulSoup.
+- Text extraction from PDF files.
+- CSV files and other structured data formats.
+
 Ensure you have the permissions to access and use the data you are extracting.
 
-Text Analysis Techniques
+## Text Analysis Techniques
+
 This project utilizes several text analysis techniques including:
 
-Tokenization: Splitting text into words or sentences.
-Stemming: Reducing words to their base or root form.
-Lemmatization: Similar to stemming, but it provides a meaningful base form.
-Sentiment Analysis: Determining the sentiment or emotional tone behind a body of text.
-Data Visualization: Using libraries such as Matplotlib and Seaborn to visualize results.
-Results
-The results of the text analysis can be visualized using various plots and charts. The specific outputs will depend on the data and analyses performed.
+- **Tokenization**: Splitting text into words or sentences.
+- **Stemming**: Reducing words to their base or root form.
+- **Lemmatization**: Similar to stemming, but it provides a meaningful base form.
+- **Sentiment Analysis**: Determining the sentiment or emotional tone behind a body of text.
+- **Data Visualization**: Using libraries such as Matplotlib and Seaborn to visualize results.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+## Results
 
-Acknowledgements
-Pandas for data manipulation and analysis.
-NumPy for numerical computing.
-NLTK for natural language processing.
-BeautifulSoup for web scraping.
-Matplotlib and Seaborn for data visualization.
+The results of the text analysis can be visualized using various plots and charts. The specific outputs will depend on the data and analyses performed. 
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Acknowledgements
+
+- [Pandas](https://pandas.pydata.org/) for data manipulation and analysis.
+- [NumPy](https://numpy.org/) for numerical computing.
+- [NLTK](https://www.nltk.org/) for natural language processing.
+- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) for web scraping.
+- [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/) for data visualization.
+
 Feel free to contribute by forking the repository, making changes, and submitting a pull request!
-
-
-
-
-### Instructions for Use:
-1. Copy the entire text above.
-2. Open your project repository on GitHub.
-3. Create a new file named `README.md`.
-4. Paste the copied text into the `README.md` file.
-5. Save the file.
-
-This will create a comprehensive README for your Data Extraction and Text Analysis project!
-
-
-
-
-
-
