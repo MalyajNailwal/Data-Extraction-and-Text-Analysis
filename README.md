@@ -2,7 +2,7 @@
 
 This project focuses on data extraction from various sources and performing text analysis on the extracted data. The aim is to provide insights and valuable information using text mining techniques and natural language processing (NLP).
 
-## Table of Contents
+## Table of Contents: 
 
 - [Features](#features)
 - [Getting Started](#getting-started)
